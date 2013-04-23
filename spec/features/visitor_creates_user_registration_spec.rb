@@ -1,9 +1,9 @@
 require 'spec_helper'
 
-feature 'Visitor creates User' do
+feature 'Visitor creates UserRegistration' do
   scenario 'success' do
     visit root_path
-    click_on 'Sign Up'
+    click_on t('visitors.user_registrations.new')
     fill_in_sign_up_form
     submit_form
 
