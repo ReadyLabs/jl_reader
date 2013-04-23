@@ -9,6 +9,7 @@ gem 'sqlite3'
 group :test do
   gem 'rspec-rails'
   gem 'capybara'
+  gem 'launchy'
 end
 
 group :assets do
