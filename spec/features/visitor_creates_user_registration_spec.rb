@@ -23,7 +23,7 @@ feature 'Visitor creates UserRegistration' do
 
   def should_see_message_visitor_created_user
     page.should have_content(
-      'Welcome! You have signed up successfully.'
+      t('devise.registrations.signed_up')
     )
   end
 end
