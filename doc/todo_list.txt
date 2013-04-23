@@ -16,3 +16,9 @@ UPCOMING STORIES
 [ ] story: user enters Evernote credentials
 [ ] story: app automatically gets from Pocket
 [ ] app automatically posts to Evernote
+
+
+STUFF WE WANT TO INCLUDE
+  guard
+  bourbon
+  ember.js
