@@ -1,0 +1,18 @@
+UPCOMING STORIES
+
+[done] sign up
+
+[John] story: sign in
+    [ ] make test that passes
+    [ ] style afterward with very minimal CSS
+
+[ ] story: user enters Pocket credentials
+    [ ] make html/css views
+        [ ] form
+        [ ] form (after failure)
+        [ ] success and next steps
+    [ ] plug into the app
+
+[ ] story: user enters Evernote credentials
+[ ] story: app automatically gets from Pocket
+[ ] app automatically posts to Evernote
