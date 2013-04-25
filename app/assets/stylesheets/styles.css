@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+}
+
+.header {
+  height: 100px;
+  background-color: #FFB03F;
+}
+
+.center {
+  height: 500px;
+}
+
+.footer {
+  height: 100px;
+  background-color: #4C1628;
+}
+
+#sign_out_link {
+  float: right;
+  margin-right: 10%;
+  text-align: center;
+  margin-top: -40px;
+}
+
+#title {
+  text-align: center;
+  font-size: 50px;
+}
+
+#sign_up_form {
+  float: right;
+  margin-right: 5%;
+}
+
+#sign_in_form {
+  float: left;
+  margin-left: 5%;
+}
